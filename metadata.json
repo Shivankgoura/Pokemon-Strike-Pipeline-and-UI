@@ -1,0 +1,5 @@
+{
+  "name": "BATCH TEST Tactical Strike Dashboard v3",
+  "description": "An AI-powered targeting system to analyze battlefield imagery, parse tactical orders, and generate precise targeting coordinates for Pokémon engagements, minimizing collateral damage and conserving resources.",
+  "requestFramePermissions": []
+}
